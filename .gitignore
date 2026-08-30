@@ -1,0 +1,21 @@
+# Compiled binaries & build artifacts
+out/
+build/
+*.class
+sources.txt
+
+# Backup & heavy archive files (>100MB)
+data/item_bg_temp.rar
+backupsrc/
+*.rar
+*.zip
+*.7z
+
+# IDE metadata
+.idea/
+.vscode/
+nbproject/private/
+
+# System files
+Thumbs.db
+Desktop.ini
